@@ -1,0 +1,33 @@
+.about-cont{
+    /* width: 100%;
+    height: 100vh; */
+    display: flex;
+    align-items: center;
+    background-color: #d35959;;
+}
+.items{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.items3 h3{
+    width: 60%;
+    font-size: 40px;
+    font-weight: 400;
+    text-align:center;
+    margin-left: 20px;
+    font-style: italic;
+    background-color: #272626;
+    border-radius: 20px;
+    padding: 15px;
+}
+.items3 img{
+    width: 700px;
+    height: 700px;
+    margin-left: 10%;
+}
+.items3 span{
+    color: #f60000;
+    background: transparent;
+}
